@@ -1,0 +1,14 @@
+# Java / Maven
+**/target/
+*.jar
+*.war
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Local and generated files
+.env
+*.log
+k8s/deployment-rendered.yaml
