@@ -1,4 +1,4 @@
-# Project 3 — Docker and Kubernetes on AWS EKS
+#  Docker and Kubernetes on AWS EKS
 
 A hands-on containerization and Kubernetes deployment project using a small Java 17
 Spring Boot REST API, Docker, Kubernetes manifests, and Amazon EKS.
